@@ -1,4 +1,4 @@
-# 🚀 Tugas Pertemuan 6: Docker Deployment
+# 🚀 Tugas Pertemuan 6: Deployment
 **Mata Kuliah:** Praktikum Deployment
 
 ## 👤 Identitas Mahasiswa
